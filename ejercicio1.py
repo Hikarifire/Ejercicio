@@ -24,7 +24,7 @@ while True:
             "Contrasena": contrasena,}
         usuarios.append(usuario)
     elif opc==3:
-        pass
+        print("Eliminar usuario")
     else:
         print("ADIOS!")
         time.sleep(2)
